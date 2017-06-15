@@ -103,6 +103,7 @@ func main() {
 # 表格
 
 ## 基本表格
+
 name | age
 ---- | ---
 LearnShare | 12
@@ -117,6 +118,7 @@ Mike |  32
 | a    | b      | c     |
 
 ## 表格中插入其他行内标记
+
 |     name     | age |             blog                |
 | ------------ | --- | ------------------------------- |
 | _LearnShare_ |  12 | [LearnShare](http://xianbai.me) |
