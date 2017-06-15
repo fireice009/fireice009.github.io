@@ -155,8 +155,8 @@ Mike |  32
 
 # 参考
 [怎样使用Markdown](http://www.ituring.com.cn/article/23)  
-[Markdown: Basics （快速入门）](http://wowubuntu.com/markdown/basic.html)
-[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/index.html)
+[Markdown: Basics （快速入门）](http://wowubuntu.com/markdown/basic.html)  
+[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/index.html)  
 
 
 [1]:http://www.ituring.com.cn
