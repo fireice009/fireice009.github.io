@@ -1,2 +1,1 @@
-# fireice009.github.io
-blog
+## [markdown example](gist/markdown-example.md)
